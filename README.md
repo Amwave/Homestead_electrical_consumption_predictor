@@ -6,6 +6,7 @@ keras for prediction of hourly electrical consumption within a region
 (city/state) using past electrical consumption data and weather data.
 
 Technologies used: Google colab, Python, Json, tf keras
+
 APIs used: wwo-hist, api.eia.gov
 
 ![image](https://user-images.githubusercontent.com/55701343/111280546-fc6ec680-8661-11eb-838a-8624e651c935.png)
